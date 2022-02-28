@@ -1,18 +1,19 @@
 fieldset{
     text-align: center;
-background-color: bisque;
     margin-top: 30px;
 
 }
-
+body{
+    background-color: antiquewhite;
+}
 .main{
     display: flex;
     justify-content: center;
-    margin-top: 30px;
 }
 
 button{
     margin: 10px;
+    width: 60px;
 }
 
 legend{

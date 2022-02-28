@@ -2,6 +2,7 @@ fieldset{
     text-align: center;
     display: grid;
     grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
     margin: 10px;
     background-color: blanchedalmond;
     border-radius:  10px; ;
@@ -20,6 +21,7 @@ img{
 }
 
 legend{
+    grid-row: 1;
     font-size: 2em;
     text-decoration: underline;
 }
