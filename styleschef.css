@@ -1,0 +1,22 @@
+.card {
+  padding: 15px;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+body main {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+h1{
+  font-weight: 800;
+}
+body main div .btn {
+  color: bisque;
+}
+body div a:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+}
+/*# sourceMappingURL=styleschef.css.map */

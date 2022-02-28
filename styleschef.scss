@@ -1,0 +1,17 @@
+@import"variable";
+
+.card {
+    padding: 15px;
+}
+
+body {
+    background-color: $bg;
+    main{
+        font-family: 'PT Sans Narrow', sans-serif;
+        div {
+            .btn {
+                color: $card;
+            }
+        }
+    }
+}

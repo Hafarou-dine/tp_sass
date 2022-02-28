@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,KAAK,CAAC;EACF,OAAO,EAAE,IAAI;CAChB;;AAED,AAAA,IAAI,CAAC;EACD,gBAAgB,ECLd,cAAc;CDcnB;;AAVD,AAEI,IAFA,CAEA,IAAI,CAAA;EACA,WAAW,EAAE,4BAA4B;CAM5C;;AATL,AAKY,IALR,CAEA,IAAI,CAEA,GAAG,CACC,IAAI,CAAC;EACD,KAAK,ECRZ,MAAM;CDSF",
+    "sources": [
+        "styleschef.scss",
+        "variable.scss"
+    ],
+    "names": [],
+    "file": "styleschef.css"
+}
