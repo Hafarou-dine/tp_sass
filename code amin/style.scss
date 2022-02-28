@@ -1,0 +1,16 @@
+@import'variable.scss';
+main{
+    background-color: $bg;
+    
+}
+
+h1{
+    color: $titre;
+    text-align: center;
+    text-decoration: $ligne;
+}
+
+.prix{
+    font-weight: $prix;
+    text-decoration: $ligne;
+}
