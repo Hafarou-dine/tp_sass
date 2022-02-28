@@ -1,0 +1,25 @@
+fieldset{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin: 10px;
+    background-color: blanchedalmond;
+    border-radius:  10px; ;
+}
+article{
+    padding-top: 10px;
+    background-color: bisque;
+    border: 3px solid burlywood;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 3px 3px beige;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 3px 2px 3px burlywood;
+}
+
+legend{
+    font-size: 2em;
+    text-decoration: underline;
+}
